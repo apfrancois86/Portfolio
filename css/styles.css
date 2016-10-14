@@ -1,0 +1,16 @@
+body {
+  background-color:#17b752;
+}
+
+.jumbotron img {
+  float:left;
+  padding-bottom:1%;
+  height:170px;
+  width:170px;
+}
+
+.jumbotron h1,h3 {
+  text-shadow: 10px;
+  text-align: center;
+  font-family: helvetica;
+}
