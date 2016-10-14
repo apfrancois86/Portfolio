@@ -7,7 +7,6 @@ body {
   height:170px;
   width:170px;
   border: 5px solid #6ca3fc;
-
 }
 
 .jumbotron h1,h3 {
@@ -22,6 +21,7 @@ body {
   float:right;
   border: 3px solid #6ca3fc;
   box-shadow: 5px 5px 2px #888888;
+  pad
 }
 
 .panel-body a {
@@ -54,4 +54,11 @@ span {
   padding left: 10px;
   margin-right: 10px;
   margin-top: 20px;
+}
+
+.blog img {
+  height:250px;
+  width:250px;
+  border: 3px solid #6ca3fc;
+  border-radius: 100%;
 }
