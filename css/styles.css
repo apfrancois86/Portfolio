@@ -1,16 +1,34 @@
 body {
-  background-color:#17b752;
+  background-color:#6ca3fc;
 }
 
 .jumbotron img {
   float:left;
-  padding-bottom:1%;
   height:170px;
   width:170px;
+  border: 5px solid #6ca3fc;
+
 }
 
 .jumbotron h1,h3 {
   text-shadow: 10px;
   text-align: center;
   font-family: helvetica;
+}
+
+.panel-body img {
+  height: 200px;
+  width: 200px;
+  float:right;
+  border: 3px solid #6ca3fc;
+  box-shadow: 5px 5px 2px #888888;
+}
+
+.panel-body a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+span {
+  font-family: fantasy;
 }
