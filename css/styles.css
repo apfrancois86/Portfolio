@@ -16,7 +16,7 @@ body {
   font-family: helvetica;
 }
 
-.panel-body img {
+.about img {
   height: 200px;
   width: 200px;
   float:right;
@@ -30,6 +30,28 @@ body {
   font-weight: bolder;
 }
 
+.panel-body a:hover{
+  font-weight:bolder;
+  color:#919195;
+}
+
 span {
   font-family: fantasy;
+}
+
+.panel-body h5 {
+  text-decoration:underline;
+  font-weight:bold;
+}
+
+.epicodus img {
+  height: 100px;
+  width: 300px;
+  border: 3px solid #6ca3fc;
+  box-shadow: 5px 5px 2px #888888;
+  float:right;
+  padding-right: 10px;
+  padding left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
 }
